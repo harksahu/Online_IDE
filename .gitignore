@@ -1,0 +1,9 @@
+node_modules
+node_modules/
+package-lock.json
+uploads/
+.vscode
+app.yaml
+/ide/.DS_Store
+/ide/.eslintrc.js
+.DS_Store
